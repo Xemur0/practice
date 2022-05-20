@@ -1,1 +1,1 @@
-# GeekBrains_practice
+# practice basic python
